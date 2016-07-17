@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/aditya/Downloads/Chat/app/build/intermediates/res/merged/debug/drawable/red_button.xml",
+        "source": "/home/aditya/Downloads/Chat/app/src/main/res/drawable/red_button.xml"
+    },
+    {
+        "merged": "/home/aditya/Downloads/Chat/app/build/intermediates/res/merged/debug/drawable/icon_ecg_ekg_web250.png",
+        "source": "/home/aditya/Downloads/Chat/app/src/main/res/drawable/icon_ecg_ekg_web250.png"
+    },
+    {
+        "merged": "/home/aditya/Downloads/Chat/app/build/intermediates/res/merged/debug/drawable/redbear.png",
+        "source": "/home/aditya/Downloads/Chat/app/src/main/res/drawable/redbear.png"
+    }
+]
